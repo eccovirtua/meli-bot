@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "meli discord bot",
+  "homepage": "https://github.com/eccovirtua/meli-bot#readme",
+  "bugs": {
+    "url": "https://github.com/eccovirtua/meli-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eccovirtua/meli-bot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
