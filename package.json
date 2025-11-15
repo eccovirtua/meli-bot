@@ -11,7 +11,7 @@
     "url": "git+https://github.com/eccovirtua/meli-bot.git"
   },
   "license": "ISC",
-  "author": "isseki",
+  "author": "isseki corp",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
