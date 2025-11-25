@@ -5,12 +5,12 @@ const { tenorApiKey } = require('../../config.json');
 
 module.exports = {
 	// nombre del comando /meli-gif
-	data: new SlashCommandBuilder().setName('meli').setDescription('buscar gifs de meli'),
+	data: new SlashCommandBuilder().setName('meli').setDescription('mandar una meli random'),
 	async execute(interaction) {
 
 		await interaction.deferReply({});
 
-		const search_term = 'cat';
+		const search_term = 'cat cursed';
 		const apikey = tenorApiKey;
 		const clientkey = 'meli-discord-bot';
 		const lmt = 8;
